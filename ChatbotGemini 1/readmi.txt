@@ -1,0 +1,9 @@
+frontEnd : React js
+Backend : Node js
+Database : MongoDB
+css : Material UI
+AI : Google Gemini
+Features : 
+	1. text Recong
+	2. Speech Recong
+	3. Fetach data from Gemini AI
