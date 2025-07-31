@@ -9,3 +9,13 @@ chatbot-project/
 ├── frontend/ - UI components (HTML, CSS, JS)
 ├── backend/ - Chatbot logic, API endpoints, database handling
 
+
+## 🖼️ Chatbot Demo
+
+### Chatbot UI
+![Chatbot UI](assets/chatbot_ui.png)
+
+### Chatbot Reply
+![Chatbot Reply](assets/chatbot_reply.png)
+
+
