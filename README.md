@@ -11,8 +11,8 @@ chatbot-project/
 
 ## 🖼️ Chatbot Demo
 
-### Chatbot UI
+### Chatbot UI  
 ![Chatbot UI](assets/chatbot_ui.png)
 
-### Chatbot Reply
+### Chatbot Reply  
 ![Chatbot Reply](assets/chatbot%20reply.png)
